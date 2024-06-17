@@ -26,3 +26,11 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/linhphan031128/Leetcode/tree/master/0022-generate-parentheses) |
+# Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/linhphan031128/Leetcode/tree/master/0027-remove-element) |
+# Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/linhphan031128/Leetcode/tree/master/0027-remove-element) |
