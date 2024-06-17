@@ -30,7 +30,12 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/linhphan031128/Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/linhphan031128/Leetcode/tree/master/0035-search-insert-position) |
 # Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/linhphan031128/Leetcode/tree/master/0027-remove-element) |
+# Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/linhphan031128/Leetcode/tree/master/0035-search-insert-position) |
