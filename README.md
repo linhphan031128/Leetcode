@@ -20,6 +20,7 @@
 | [0012-integer-to-roman](https://github.com/linhphan031128/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/linhphan031128/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/linhphan031128/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/linhphan031128/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/linhphan031128/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/linhphan031128/Leetcode/tree/master/0049-group-anagrams) |
 # Dynamic Programming
@@ -59,3 +60,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/linhphan031128/Leetcode/tree/master/0014-longest-common-prefix) |
+# Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/linhphan031128/Leetcode/tree/master/0020-valid-parentheses) |
