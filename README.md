@@ -15,6 +15,7 @@
 | [0012-integer-to-roman](https://github.com/linhphan031128/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/linhphan031128/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/linhphan031128/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/linhphan031128/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/linhphan031128/Leetcode/tree/master/0049-group-anagrams) |
 # String
 |  |
@@ -45,6 +46,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/linhphan031128/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/linhphan031128/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/linhphan031128/Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/linhphan031128/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/linhphan031128/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/linhphan031128/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/linhphan031128/Leetcode/tree/master/0048-rotate-image) |
@@ -84,4 +86,5 @@
 # Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/linhphan031128/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/linhphan031128/Leetcode/tree/master/0048-rotate-image) |
