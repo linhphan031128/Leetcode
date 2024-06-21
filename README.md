@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/linhphan031128/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/linhphan031128/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/linhphan031128/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/linhphan031128/Leetcode/tree/master/0048-rotate-image) |
 # Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0035-search-insert-position](https://github.com/linhphan031128/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/linhphan031128/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/linhphan031128/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/linhphan031128/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/linhphan031128/Leetcode/tree/master/0049-group-anagrams) |
 # Two Pointers
 |  |
@@ -76,3 +78,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/linhphan031128/Leetcode/tree/master/0011-container-with-most-water) |
+# Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/linhphan031128/Leetcode/tree/master/0048-rotate-image) |
